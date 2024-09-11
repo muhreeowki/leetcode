@@ -1,4 +1,4 @@
-package arrays
+package main
 
 func isValidSudoku(board [][]byte) bool {
 	rows := [9]map[byte]bool{} // Index of the row in the board mapped to a set of numbers

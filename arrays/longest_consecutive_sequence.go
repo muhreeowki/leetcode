@@ -1,4 +1,4 @@
-package arrays
+package main
 
 func longestConsecutive(nums []int) int {
 	numsLen := len(nums)
